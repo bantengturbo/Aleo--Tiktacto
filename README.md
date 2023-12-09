@@ -1,2 +1,2 @@
-# Aleo.tiktacto
+# Aleo-tiktacto
 My Aleo.tiktacto
